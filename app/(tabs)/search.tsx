@@ -63,7 +63,7 @@ const Search = () => {
               <Image source={icons.logo} className="w-12 h-10" />
             </View>
 
-            <View className="my-5">
+            <View className="my-10">
               <SearchBar
                 placeholder="Search movies"
                 value={searchTerm}
